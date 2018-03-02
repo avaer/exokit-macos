@@ -1,13 +1,1 @@
-# exokit-macos
-
-setup:
-```
-brew install glfw
-yarn
-```
-
-run:
-```
-node . http://localhost:8000
-```
-
+# 🡪 Merged into https://github.com/modulesio/exokit
